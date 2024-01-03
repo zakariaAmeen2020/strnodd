@@ -151,5 +151,8 @@
   },
   "devDependencies": {
     "css-loader": "^6.8.1"
+  },
+  "engines":{
+    "node":">=14.20.1"
   }
 }
